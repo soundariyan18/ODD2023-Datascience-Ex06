@@ -1,4 +1,4 @@
-#Ex-06-Feature-Transformation
+#EX-06-FEATURE TRANSFORMATION
 
 #AIM
 
