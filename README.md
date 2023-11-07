@@ -1,14 +1,14 @@
-###Ex-06-Feature-Transformation
+##Ex-06-Feature-Transformation
 
 ##AIM
 
 To read the given data and perform Feature Transformation process and save the data to a file.
 
-##EXPLANATION
+#EXPLANATION
 
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
 
-##ALGORITHM
+#ALGORITHM
 
 STEP 1: Read the given Data
 
@@ -19,7 +19,7 @@ STEP 3: Apply Feature Transformation techniques to all the features of the data 
 STEP 4: Save the data to the file
 
 
-##PROGRAM:
+#PROGRAM:
 
 ```
 Developed by : M.N.SOUNDARIYAN
@@ -72,7 +72,7 @@ sm.qqplot(df['Highly Negative Skew'],line='45')
 plt.show()
 ```
 
-##OUTPUT:
+#OUTPUT:
 
 ```
 ```
@@ -101,5 +101,5 @@ plt.show()
 ![image](https://github.com/soundariyan18/ODD2023-Datascience-Ex06/assets/119393307/6ce7db32-fcd2-418a-9fa6-716ecfc5b002)
 ```
 
-##RESULT:
+#RESULT:
 Thus,Feature transformation is performed and executed successfully for the given dataset.
