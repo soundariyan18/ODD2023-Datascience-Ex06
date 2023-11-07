@@ -19,6 +19,8 @@ STEP 3: Apply Feature Transformation techniques to all the features of the data 
 STEP 4: Save the data to the file
 
 
+
+
 #PROGRAM:
 
 ```
@@ -27,8 +29,6 @@ Developed by : M.N.SOUNDARIYAN
 REG : 212222230146
 
 ```
-
-
 ```
 import pandas as pd
 from scipy import stats
